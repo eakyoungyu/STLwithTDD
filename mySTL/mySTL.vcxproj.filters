@@ -18,12 +18,12 @@
     <ClCompile Include="mySTL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="myStack.cpp">
+    <ClCompile Include="src\Stack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="myStack.h">
+    <ClInclude Include="inc\Stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
